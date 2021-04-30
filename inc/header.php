@@ -15,6 +15,16 @@
         <link rel="stylesheet" href="css/cv.css">
 
         <meta name="viewport" content="width=device-width, initial-scale=1">
+
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-WQZ71XEKDC"></script>
+            <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+
+                gtag('config', 'G-WQZ71XEKDC');
+            </script>
     </head>
 
 <body>

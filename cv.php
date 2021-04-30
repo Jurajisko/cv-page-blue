@@ -6,7 +6,7 @@
     <div id="about">
 
         <div id="home" class="btn enter-bg">
-            <a href="#">enter</a>
+            <a href="#">vstup</a>
         </div>
 
     </div>
