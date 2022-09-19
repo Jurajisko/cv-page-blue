@@ -6,7 +6,7 @@ $color-bg-page: #f5f6f7;
 $color-text-page: #f5f6f7;
 $color-text-theme: #00B2FF;
 $color-silver: #95a5a6;
-$blue: rgb(0, 178, 255, .8);
+$blue: rgba(0, 178, 255, .8);
 $lblue: lighten( $blue, 20%);
 $dblue: darken( $blue, 20%);
 
@@ -345,6 +345,11 @@ footer {
 }
 
 // Skills graph
+.skills-grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
 .skill {
     text-align: left;
     width: em(500);

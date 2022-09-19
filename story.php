@@ -1,23 +1,15 @@
-
 <div id="about">
     <div id="story" class="about">
         <h1>DOVOĽTE SA MI PREDSTAVIŤ</h1>
         <article>
             <p>
-            Hľadám si aktuálne nový smer v živote... „naštartovať“ novú kariéru. Napĺňa ma kreatívna práca a zaujímavé riešenia projektov. V IT som profesionálne zatiaľ nepôsobil, ale baví ma objavovanie nových možností programovania.
-
-
+                Aktuálne pôsobím ako "freelance" čiže nebránim sa akejkoľvek spolupráci na rôznych projektoch.
+            <p>
+                Skúsenosti mám vo väčšej miere s Front-End a celkovo s dizajnovaním ... vyskladaním pekného webu aby to malo hlavu a pätu.
             </p>
             <p>
-            Rád by som našiel možnosť práce ako junior programátor formou full-time či part-time, stáže, remote... Jednoducho by som rád nadobudol skúsenosti s reálnou prácou s programovaním.
-
-
+                Takže "klasiky" ako HTML, CSS aj s využitím Sass sú už mojou súčasťou tiež aj vcelku šikovný Tailwind mi nieje cudzí. Samozrejme nezľaknem sa ani PHP či JS resp. evergreenu ako jQuery :). Celkovo sa najviac stretávam s Wordpress, ale orientujem sa aj vo frameworku Laravel či Vue. Je to v menšej miere, ale rád získam ďlšie prípadne skúsenosti.
             </p>
-            <p>
-            Baví ma práca s Front-End, ktorý študujem v rámci online lekcií learn2code.sk. Takže základy ako HTML, CSS aj s využitím SASS sú už mojou súčasťou. No samozrejme, že mi to nestačí!!! Takže pokračujem ďalej a to v štúdiu Laravel 8+, JavaScript resp. s využitím jQuery a prácu s Vue 3 ...
-	
-
-            </p>
-        </article>     
+        </article>
     </div>
 </div>
